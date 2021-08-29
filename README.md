@@ -12,3 +12,5 @@ You can download the latest version of COVID-19 Case Tracker from [here](https:/
 # Contribution
 Under the MIT license and the Open Source Project Initiative, I am also open for any kind of contribution to this project. If you want to contribute to this, just send a pull request with no hesitation!
 
+### Soon
+- soon will support Generated Country Flage  On screen and new Background Ig , Hope you Enjoy the Project :D
